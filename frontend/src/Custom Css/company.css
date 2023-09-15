@@ -1,0 +1,13 @@
+.inputtext {
+    width: 50%;
+    border: 1px solid black;
+    background-color: red;
+  };
+  .custom3{
+  width:'150px';
+  height: '50px';
+  color: 'black';
+  border: 'solid 1px red';
+  margin-top:'20px';
+
+  }

@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ali@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "King",
+      "email": "king@gmail.com",
+      "password": "1234566",
+      "id": 7
+    }
+  ],
+  "contact": [
+    {
+      "name": "Jihad",
+      "email": "Jihad@gmail.com",
+      "phone": "03469623300",
+      "adress": "Jihad@gmail.com",
+      "msg": "This is the message of jihad",
+      "id": 1
+    },
+    {
+      "name": "dfasdf",
+      "email": "",
+      "phone": "",
+      "adress": "",
+      "msg": "",
+      "id": 2
+    }
+  ]
+}
